@@ -1,10 +1,10 @@
-### KIT_PSoC4-HVMS-64K_LITE BSP
-KIT_PSoC4-HVMS-64K_LITE is a lite kit for the PSoC™ high-voltage (HV) mixed signal (MS) microcontrollers,  a fully integrated programmable embedded systems for several automotive human machine interface (HMI),  body and powertrain applications.
+### KIT_PSOC4-HVMS-64K_LITE BSP
+KIT_PSOC4-HVMS-64K_LITE is a lite kit for the PSOC™ high-voltage (HV) mixed signal (MS) microcontrollers,  a fully integrated programmable embedded systems for several automotive human machine interface (HMI),  body and powertrain applications.
 
 NOTE: BSPs are versioned by family. This means that version 1.2.0 of any BSP in a family (eg: PSoC™ 6) will have the same software maturity level. However, not all updates are necessarily applicable for each BSP in the family so not all version numbers will exist for each board. Additionally, new BSPs may not start at version 1.0.0. In the event of adding a common feature across all BSPs, the libraries are assigned the same version number. For example if BSP_A is at v1.3.0 and BSP_B is at v1.2.0, the event will trigger a version update to v1.4.0 for both BSP_A and BSP_B. This allows the common feature to be tracked in a consistent way.
 
 ### What's Included?
-The KIT_PSoC4-HVMS-64K_LITE library includes the following:
+The KIT_PSOC4-HVMS-64K_LITE library includes the following:
 * BSP specific makefile to configure the build process for the board
 * cybsp.c/h files to initialize the board and any system peripherals
 * cybsp_types.h file describing basic board setup
@@ -42,7 +42,7 @@ Note: This revision is only compatible with ModusToolbox Tools 3.0 and newer.
 * Initial pre-production release
 
 ### Supported Software and Tools
-This version of the KIT_PSoC4-HVMS-64K_LITE BSP was validated for compatibility with the following Software and Tools:
+This version of the KIT_PSOC4-HVMS-64K_LITE BSP was validated for compatibility with the following Software and Tools:
 
 | Software and Tools                        | Version |
 | :---                                      | :----:  |
@@ -54,13 +54,13 @@ This version of the KIT_PSoC4-HVMS-64K_LITE BSP was validated for compatibility 
 Minimum required ModusToolbox™ Software Environment: v3.0.0
 
 ### More information
-* [KIT_PSoC4-HVMS-64K_LITE BSP API Reference Manual][api]
-* [KIT_PSoC4-HVMS-64K_LITE Documentation](https://www.infineon.com/cms/en/product/evaluation-boards/psoc4_hvms_lite_kit/)
+* [KIT_PSOC4-HVMS-64K_LITE BSP API Reference Manual][api]
+* [KIT_PSOC4-HVMS-64K_LITE Documentation](https://www.infineon.com/cms/en/product/evaluation-boards/psoc4_hvms_lite_kit/)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
 * [Infineon GitHub](https://github.com/infineon)
 * [ModusToolbox™](https://www.cypress.com/products/modustoolbox-software-environment)
 
-[api]: https://infineon.github.io/TARGET_KIT_PSoC4-HVMS-64K_LITE/html/modules.html
+[api]: https://infineon.github.io/TARGET_KIT_PSOC4-HVMS-64K_LITE/html/modules.html
 
 ---
 © Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation, 2019-2022.

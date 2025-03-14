@@ -1,8 +1,8 @@
-# KIT_PSoC4-HVMS-64K_LITE BSP
+# KIT_PSOC4-HVMS-64K_LITE BSP
 
 ## Overview
 
-KIT_PSoC4-HVMS-64K_LITE is a lite kit for the PSoC™ high-voltage (HV) mixed signal (MS) microcontrollers,  a fully integrated programmable embedded systems for several automotive human machine interface (HMI),  body and powertrain applications.
+KIT_PSOC4-HVMS-64K_LITE is a lite kit for the PSOC™ high-voltage (HV) mixed signal (MS) microcontrollers,  a fully integrated programmable embedded systems for several automotive human machine interface (HMI),  body and powertrain applications.
 
 ![](docs/html/board.png)
 
@@ -22,7 +22,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 
 ### Kit Contents:
 
-* KIT_PSoC4-HVMS-64K_LITE Board
+* KIT_PSOC4-HVMS-64K_LITE Board
 * USB Type-A to Micro-B cable
 * Quick Start Guide
 
@@ -33,7 +33,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 
 ## BSP Configuration
 
-The BSP has a few hooks that allow its behavior to be configured. Some of these items are enabled by default while others must be explicitly enabled. Items enabled by default are specified in the KIT_PSoC4-HVMS-64K_LITE.mk file. The items that are enabled can be changed by creating a custom BSP or by editing the application makefile.
+The BSP has a few hooks that allow its behavior to be configured. Some of these items are enabled by default while others must be explicitly enabled. Items enabled by default are specified in the KIT_PSOC4-HVMS-64K_LITE.mk file. The items that are enabled can be changed by creating a custom BSP or by editing the application makefile.
 
 Components:
 * Device specific category reference (e.g.: CAT1) - This component, enabled by default, pulls in any device specific code for this board.
@@ -59,19 +59,19 @@ See the [BSP Setttings][settings] for additional board specific configuration se
 
 ## API Reference Manual
 
-The KIT_PSoC4-HVMS-64K_LITE Board Support Package provides a set of APIs to configure, initialize and use the board resources.
+The KIT_PSOC4-HVMS-64K_LITE Board Support Package provides a set of APIs to configure, initialize and use the board resources.
 
 See the [BSP API Reference Manual][api] for the complete list of the provided interfaces.
 
 ## More information
-* [KIT_PSoC4-HVMS-64K_LITE BSP API Reference Manual][api]
-* [KIT_PSoC4-HVMS-64K_LITE Documentation](https://www.infineon.com/cms/en/product/evaluation-boards/psoc4_hvms_lite_kit/)
+* [KIT_PSOC4-HVMS-64K_LITE BSP API Reference Manual][api]
+* [KIT_PSOC4-HVMS-64K_LITE Documentation](https://www.infineon.com/cms/en/product/evaluation-boards/psoc4_hvms_lite_kit/)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
 * [Infineon GitHub](https://github.com/infineon)
 * [ModusToolbox™](https://www.cypress.com/products/modustoolbox-software-environment)
 
-[api]: https://infineon.github.io/TARGET_KIT_PSoC4-HVMS-64K_LITE/html/modules.html
-[settings]: https://infineon.github.io/TARGET_KIT_PSoC4-HVMS-64K_LITE/html/md_bsp_settings.html
+[api]: https://infineon.github.io/TARGET_KIT_PSOC4-HVMS-64K_LITE/html/modules.html
+[settings]: https://infineon.github.io/TARGET_KIT_PSOC4-HVMS-64K_LITE/html/md_bsp_settings.html
 
 ---
-© Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation, 2019-2024.
+© Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation, 2019-2025.

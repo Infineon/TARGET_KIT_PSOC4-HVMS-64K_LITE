@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "KIT_PSoC4-HVMS-64K_LITE BSP", "index.html", [
+  [ "KIT_PSOC4-HVMS-64K_LITE BSP", "index.html", [
     [ "Overview", "index.html#autotoc_md1", null ],
     [ "Features", "index.html#autotoc_md2", [
       [ "Kit Features:", "index.html#autotoc_md3", null ],

@@ -2,11 +2,11 @@
 # \file bsp.mk
 #
 # \brief
-# Define the KIT_PSoC4-HVMS-64K_LITE target.
+# Define the KIT_PSOC4-HVMS-64K_LITE target.
 #
 ################################################################################
 # \copyright
-# Copyright 2019-2024 Cypress Semiconductor Corporation (an Infineon company) or
+# Copyright 2019-2025 Cypress Semiconductor Corporation (an Infineon company) or
 # an affiliate of Cypress Semiconductor Corporation
 #
 # SPDX-License-Identifier: Apache-2.0
