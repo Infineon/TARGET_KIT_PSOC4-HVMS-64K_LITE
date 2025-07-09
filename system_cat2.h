@@ -172,12 +172,12 @@
 *   <tr><th>Version</th><th>Changes</th><th>Reason for Change</th></tr>
 *   <tr>
 *     <td rowspan="2">2.1</td>
-*     <td>Added Cy_BootStatus() for PSoC4 HVMS/PA platform.
+*     <td>Added Cy_BootStatus() for PSOC4 HVMS/PA platform.
 *     Updated Reset_Handler() to support Default Handler for Boot-Up Status.</td>
 *     <td rowspan="2">Major: Support for new devices.</td>
 *   </tr>
 *   <tr>
-*     <td>Updated \ref SystemInit() function for PSoC4 HVMS/PA devices.
+*     <td>Updated \ref SystemInit() function for PSOC4 HVMS/PA devices.
 *     Minor documentation updates.</td>
 *   </tr>
 *   <tr>
